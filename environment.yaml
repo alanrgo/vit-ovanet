@@ -1,0 +1,11 @@
+name: vit-ovanet
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.5
+  - cudatoolkit=11.3
+  - pytorch=1.12.1
+  - torchvision=0.13.1
+  - yacs
+  - tensorboard
